@@ -65,6 +65,7 @@ section {
     background-color: #630000;
     text-align: center;
     padding: 20em 0 20em 0;
+    justify-content: center;
 }
 .main h2 {
     color: #fff;
@@ -268,5 +269,6 @@ transform: scale(1.1);
         font-size: 10x;
     }
 }
+
 
 

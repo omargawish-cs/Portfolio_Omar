@@ -59,10 +59,11 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: #630000;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-color: #630000;
+    text-align: center;
     padding: 20em 0 20em 0;
 }
 .main h2 {
@@ -267,4 +268,5 @@ transform: scale(1.1);
         font-size: 10x;
     }
 }
+
 
